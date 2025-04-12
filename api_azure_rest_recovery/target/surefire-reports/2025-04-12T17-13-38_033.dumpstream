@@ -1,0 +1,5 @@
+# Created at 2025-04-12T17:13:38.215
+Boot Manifest-JAR contains absolute paths in classpath 'd:\Personal\Estudios\2025_201 DESARROLLO CLOUD NATIVE II_001A\WebGestion\api_azure_rest_recovery\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

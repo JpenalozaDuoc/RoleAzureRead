@@ -1,0 +1,6 @@
+apirestazureread\service\RoleService.class
+apirestazureread\model\Role.class
+apirestazureread\function\RoleFunction.class
+apirestazureread\connection\DatabaseConnection.class
+apirestazureread\exception\RoleNotFoundException.class
+apirestazureread\Function.class

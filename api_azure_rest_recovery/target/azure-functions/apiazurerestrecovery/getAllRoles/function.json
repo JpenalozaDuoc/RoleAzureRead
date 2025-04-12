@@ -1,0 +1,16 @@
+{
+  "scriptFile" : "../api_azure_rest_recovery-1.0-SNAPSHOT.jar",
+  "entryPoint" : "apirestazureread.function.RoleFunction.getAllRoles",
+  "bindings" : [ {
+    "type" : "httpTrigger",
+    "direction" : "in",
+    "name" : "req",
+    "route" : "roles",
+    "methods" : [ "GET" ],
+    "authLevel" : "FUNCTION"
+  }, {
+    "type" : "http",
+    "direction" : "out",
+    "name" : "$return"
+  } ]
+}
